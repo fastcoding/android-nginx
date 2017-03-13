@@ -36,6 +36,7 @@ Configuration nginx core and modules
 Connect android device with USB cable, or launch android emulator.
 
 Run command to configure nginx core and libraries.
+Note: depends on the ndk bundle version, on my mac, gcc has to be changed to arm-linux-androideabi-gcc.
 
 ```
 #!sh
